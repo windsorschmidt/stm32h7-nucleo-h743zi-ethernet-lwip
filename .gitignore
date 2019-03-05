@@ -1,0 +1,15 @@
+**/*.tmp
+**/*.o
+**/compile_commands.json
+**/.ccls-cache
+.idea
+.cproject
+.project
+.mxproject
+mx.scratch
+build
+build_debug
+build_release
+GTAGS
+GRTAGS
+GPATH
